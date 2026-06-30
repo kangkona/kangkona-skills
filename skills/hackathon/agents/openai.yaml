@@ -1,4 +1,0 @@
-interface:
-  display_name: "Hackathon / 黑客松"
-  short_description: "Choose rule-compliant projects, shape story, build demo, prepare pitch"
-  default_prompt: "Use $hackathon / 使用 $hackathon 帮我选择合规的黑客松项目、打磨叙事、规划执行，并准备 demo/PPT/Q&A。"
